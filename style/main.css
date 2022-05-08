@@ -165,11 +165,7 @@ header nav a:hover{
 /*Botão de volta ao topo*/
 .back-to-top up{
     color: var(--vermelho);
-    
-    
-
-    
-    
+        
 }
 .back-to-top a{
     display: flex;
@@ -177,11 +173,4 @@ header nav a:hover{
     margin-right: 20px;
     margin-bottom: 20px;
     text-decoration: none;
-    
-    
-        
-        
-
-              
-    
 }
