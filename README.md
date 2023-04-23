@@ -1,6 +1,6 @@
 # Recriando a Interface do Netflix
 
-Projeto desenvolvido durante o bootcamp Carrefour Web Developer, da da Digital Innovation One.
+Projeto desenvolvido durante o bootcamp Carrefour Web Developer, da Digital Innovation One.
 
 ### Descrição do Desafio
 
